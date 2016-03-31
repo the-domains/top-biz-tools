@@ -1,0 +1,28 @@
+name: Top Biz Tools
+favicon: null
+layout_spectrum: 0.9859033334068954
+typography_spectrum: 0.8473839473444968
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5613267887383699
+  lightness: 0.924200315726921
+  saturation: 0.37830962403677404
+  rhythmicContrast: 0.9293153113685548
+purpose: []
